@@ -3,7 +3,7 @@
 
 # In[1]:
 
-print("Hubert jest najlepszy na świecie!")
+print("Hubert jest najlepszy na świecie! I jest super super!")
 
 
 # In[ ]:
